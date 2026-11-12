@@ -52,7 +52,7 @@ Vlastní deska s ESP32, vlastní firmware a aplikace – navrženo podle profesi
 - **Kalibrace sond jako u profi controllerů:** pH dvoubodově, ORP a salinita jednobodově, hodnota se uloží až po ustálení sondy. Teplotní kompenzace pH i vodivosti.
 - **Jak to funguje:**
   - jednotka měří a řídí sama, i bez internetu a bez aplikace; čas drží zálohované hodiny reálného času,
-  - nastavení Wi-Fi přes Bluetooth, doma ovládání napřímo přes místní síť, mimo domov přes cloud (přepíná se automaticky),
+  - nastavení Wi-Fi přes Bluetooth, doma ovládání napřímo přes místní síť, mimo domov přehled stavu přes cloud (ovládání na dálku připravujeme – RK LIGHT ho už umí),
   - aktualizace firmwaru přes OTA s digitálním podpisem a automatickým návratem k předchozí verzi při chybě,
   - hlídací watchdog a bezpečný režim, aby se jednotka po výpadku sama vzpamatovala.
 - **Plán:** propojení s RK LIGHT, upozornění na mobil při odchylce hodnot, dávkování a chytré zásuvky.
