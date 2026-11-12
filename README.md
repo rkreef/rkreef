@@ -42,10 +42,20 @@ Hardware, firmware, aplikace i cloud jsou náš vlastní vývoj. Podali jsme př
   - upozornění, když světlo vypadne.
   - Teď běží uzavřený test na Google Play.
 
-**Reef Control** (plánujeme): řídicí systém celého akvária
-- Řízení zásuvek, hlídání teploty, časové plány a upozornění.
-- Později senzory (pH) a dávkování.
-- Propojení s RK LIGHT, jednoduché ovládání z mobilu a provoz i bez internetu.
+**RK Control System** (ve vývoji, první deska jde do výroby): řídicí a měřicí jednotka celého akvária.<br>
+Vlastní deska s ESP32, vlastní firmware a aplikace – navrženo podle profesionálních reef controllerů.
+- **Měření:**
+  - pH, ORP a salinita (vodivostní cela K=10) přes konektory BNC,
+  - teplota (čidla DS18B20) a hladina (optický snímač pro dolívání nebo hlídání úniku vody),
+  - přesný 16bitový převodník, měřicí část je **galvanicky oddělená** od napájení a Wi-Fi, takže sondy neruší zemní smyčky ani čerpadla v akváriu.
+- **Řízení:** 2× výstup 0–10 V pro proudová čerpadla nebo stmívání (vlnové režimy, krmná pauza na tlačítko).
+- **Kalibrace sond jako u profi controllerů:** pH dvoubodově, ORP a salinita jednobodově, hodnota se uloží až po ustálení sondy. Teplotní kompenzace pH i vodivosti.
+- **Jak to funguje:**
+  - jednotka měří a řídí sama, i bez internetu a bez aplikace; čas drží zálohované hodiny reálného času,
+  - nastavení Wi-Fi přes Bluetooth, doma ovládání napřímo přes místní síť, mimo domov přehled stavu přes cloud,
+  - aktualizace firmwaru přes OTA s digitálním podpisem a automatickým návratem k předchozí verzi při chybě,
+  - hlídací watchdog a bezpečný režim, aby se jednotka po výpadku sama vzpamatovala.
+- **Plán:** propojení s RK LIGHT, upozornění na mobil při odchylce hodnot, dávkování a chytré zásuvky.
 
 **rkreef.eu**: web a e-shop
 - Firebase Hosting, Firestore a Cloud Functions (Node.js).
