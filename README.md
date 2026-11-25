@@ -121,7 +121,6 @@ Natáčíme vlastní spoty a videa z realizací, stavby akvárií a péče o kor
 
 Weby a e-shopy, které jsme postavili od návrhu po spuštění:
 - **Svíčky PS** – web a e-shop ručně odlévaných svíček z přírodních vosků, včetně etiket a kartiček do balení.
-- **U vlčice** – web a e-shop s rezervacemi psího hotelu a školky a dárkovými poukazy.
 - **PikaCards** – e-shop se sběratelskými kartami.
 
 ## Technologie
