@@ -11,6 +11,39 @@
 
 ---
 
+## Co děláme
+
+### Mořská akvária na míru
+Navrhneme, vyrobíme, dovezeme, zapojíme a předáme živé, zaběhnuté akvárium – od nano setů po velké útesové systémy s prouděním, které odpovídá přírodnímu útesu.
+- **Vlastní konstrukce:** skříňky (zátěžově testované paletou cihel Porotherm), sumpy, reverzní osmóza a přepady vyvíjíme a vyrábíme sami.
+- **Instalace po celé ČR** i v Německu, Polsku a na Slovensku.
+- **Podklady pro zákazníka:** vizualizace, nabídka s rozpisem techniky a smlouva o dílo.
+
+### Vlastní přepadový systém – užitný vzor č. 38266
+Přepad z 3D tisku, který jsme vyvinuli sami a který je chráněný **užitným vzorem č. 38266** (zapsán 26. 11. 2024). Na vlastní LED osvětlení RK LIGHT jsme podali **přihlášku vynálezu PV 2026-277**.
+
+### Servis akvárií
+Jezdíme přímo k zákazníkům po celé ČR. Servisujeme mořská i sladkovodní akvária – i ta, která jsme nestavěli.
+- **Měření parametrů na místě:** salinita, teplota, pH, KH, vápník, hořčík, dusičnany a fosforečnany.
+- **Laboratorní ICP rozbor vody**, který odhalí i stopové prvky a kontaminace.
+- **Kontrola techniky:** odpěňovač, čerpadla a proudění, osvětlení, dolévání, dávkování, osmóza a filtrace.
+- **Stav ryb, korálů a bezobratlých:** kondice, nemoci a paraziti, zbarvení korálů.
+- **Poradenství a konkrétní plán dalších kroků** – žádné obecné rady do prázdna.
+
+### Havárie 24/7 a záchranná stanice
+Praskne nádrž, vypadne technika, stěhujete se nebo přestavujete systém? Havárie řešíme **nonstop** a živočichy dočasně převezmeme do našich nádrží, kde se o ně postaráme.
+
+### Edukace a kurzy
+- **Kurzy jeden na jednoho** přes video hovor, vždy zaměřené na vaše konkrétní akvárium, v ČR i v zahraničí.
+- **Čtyři úrovně (3, 6, 9 a 12 měsíců):** od základů a chemismu vody přes stabilní systémy, světlo, choroby a karanténu až po pokročilou chemii, mikroprvky a symbiózu.
+- **Komunita** Mořská akvaristika pro všechny CZ/SK s více než 1 300 členy, komunitní fórum na webu a vzdělávací videa na sítích.
+
+### E-shop
+Technika, chemie, ICP testy a vybavení pro mořskou akvaristiku: [rkreef.eu/eshop](https://rkreef.eu/eshop/)
+
+### Vlastní díly z 3D tisku
+Držáky techniky, přepady, koše na filtrační média a další díly, které se nedají koupit, navrhujeme a tiskneme sami.
+
 ## O mně
 
 ### Radek Kraus, MBA
@@ -26,15 +59,6 @@ Stojím v čele RKREEF – od strategie a vývoje produktů přes výrobu až po
 - **Odbornost:** chemie mořské vody, biologie korálového útesu a soužití organismů – akvária mě provázejí od dětství, mořské se naplno věnuji od roku 2020.
 - **Manažerské zázemí:** **MBA – Digital Marketing** (IT academy Prague, mezinárodní akreditace IES London a International Certification Institute, 2026) – řízení organizace a projektů, obchodní a marketingová strategie, leadership a komunikace. Předtím kariéra v IT, mimo jiné jako **IT manažer**.
 - **RK Studio:** pod touto značkou dodávám firmám řešení na klíč – e-shopy, rezervační systémy, mobilní aplikace a IoT – a pomáhám jim zbavit se drahých pronajatých platforem.
-
-## Co děláme
-
-- **Mořská akvária na míru:** od návrhu přes výrobu, dovoz a zapojení až po předání živého, zaběhnutého akvária. Navrhujeme i velké útesové systémy s prouděním, které odpovídá přírodnímu útesu.
-- **Vlastní přepadový systém**, chráněný užitným vzorem č. 38266.
-- **Servis a havárie 24/7:** pomoc při poruše, pravidelná péče o akvárium, ustájení zvířat.
-- **Kurzy jeden na jednoho:** naučíme vás starat se o mořské akvárium samostatně a s jistotou.
-- **E-shop** s technikou, chemií a vybavením pro mořskou akvaristiku: [rkreef.eu/eshop](https://rkreef.eu/eshop/)
-- **Vlastní díly z 3D tisku:** držáky techniky, přepady, koše na filtrační média a další díly, které se nedají koupit, navrhujeme a tiskneme sami.
 
 ## Vlastní výrobky
 
