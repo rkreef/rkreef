@@ -19,10 +19,10 @@
 Stojím v čele RKREEF – od strategie a vývoje produktů přes výrobu až po realizace u zákazníků. Spojuji tři světy: **business, technologie a mořskou biologii**.
 
 - **Vize:** mořská akvaristika dostupná pro všechny – bez statisíců za techniku a bez nutnosti být chemik. Proto budujeme vlastní ekosystém výrobků, aplikací a služeb pod jednou značkou.
-- **Vlastní cesta:** RKREEF jsem vybudoval od nuly, bez investora a bez kopírování komerčních značek – vlastní jméno, vlastní kvalita, vlastní technologie. Za sebou mám užitný vzor a přihlášku vynálezu.
+- **Vlastní cesta:** RKREEF jsem vybudoval od nuly, doma „na koleni“, bez kopírování komerčních značek – vlastní jméno, vlastní kvalita, vlastní technologie. Za sebou mám užitný vzor a přihlášku vynálezu.
 - **Leadership vývoje:** řídím celý vývoj RKREEF – elektroniku, firmware, mobilní a desktopové aplikace, cloud i e-shop – a sám ho architektonicky navrhuji.
-- **Realizace po celé Evropě:** akvária navrhujeme, stavíme a servisujeme v Česku, Německu, Polsku a na Slovensku – od nano setů po útesové systémy s více než 600 litry.
-- **Komunita:** založil jsem **Mořská akvaristika pro všechny CZ/SK**, jednu z největších českých a slovenských komunit mořských akvaristů (1 300+ členů). Vlastní odchov klaunů očkatých.
+- **Realizace v Česku i v zahraničí:** akvária navrhujeme, stavíme a servisujeme v Česku, Německu, Polsku a na Slovensku – od nano setů po útesové systémy s více než 600 litry.
+- **Komunita:** založil jsem komunitu **Mořská akvaristika pro všechny CZ/SK**, která má přes 1 300 členů. Vlastní odchov klaunů očkatých.
 - **Odbornost:** chemie mořské vody, biologie korálového útesu a soužití organismů – akvária mě provázejí od dětství, mořské se naplno věnuji od roku 2020.
 - **Manažerské zázemí:** **MBA – Digital Marketing** (IT academy Prague, mezinárodní akreditace IES London a International Certification Institute, 2026) – řízení organizace a projektů, obchodní a marketingová strategie, leadership a komunikace. Předtím kariéra v IT, mimo jiné jako **IT manažer**.
 - **RK Studio:** pod touto značkou dodávám firmám řešení na klíč – e-shopy, rezervační systémy, mobilní aplikace a IoT – a pomáhám jim zbavit se drahých pronajatých platforem.
