@@ -100,7 +100,7 @@ Ve vývoji. Mořské akvárium „vše v jednom“ pro začátečníky i do kanc
 ## Aplikace
 
 ### RK Reef Control – mobilní aplikace (Android)
-Teď běží uzavřený test na Google Play.
+**Vydaná na Google Play** od 21. 11. 2026 ve 27 zemích EU: [RK Reef Control na Google Play](https://play.google.com/store/apps/details?id=eu.morskaakvaria.reef)
 - Průvodce prvním spuštěním, přihlášení a obnova dat z cloudu.
 - Ovládání jednoho světla i celého akvária naráz, editor spektra a denního programu.
 - Programy dávkování, plán údržby, sdílení programů přes QR, zálohy v cloudu.
